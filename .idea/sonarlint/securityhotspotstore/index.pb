@@ -8,5 +8,5 @@ b
 2src/main/java/binary_search/BasicBinarySearch.java,a/6/a62204a6ddb0bd410e27a2a825291d4c892b924d
 b
 2src/main/java/binary_search/WordsBinarySearch.java,c/d/cdfab55e6891eb65b0714701f12e592b907eb69b
-`
-0src/main/java/binary_search/ADTBinarySearch.java,f/0/f05802acf4fc4c309c7c494968935950a456159b
+Y
+)src/main/java/arrays_and_lists/Array.java,d/c/dc19450d0ed7548214c78f0c71aa4cbbe16ed348
